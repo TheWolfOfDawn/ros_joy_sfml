@@ -6,3 +6,6 @@ A simple ROS tool to move a robot with a joystick, it has been tested with an X-
 ## Required :
 SFML
 ```sudo apt-get install libsfml-dev```
+
+## How to start :
+```rosrun driver_manette driver_manette```
