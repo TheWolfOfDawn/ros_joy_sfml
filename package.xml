@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ros-joy-sfml</name>
+  <name>ros_joy_sfml</name>
   <version>0.1.0</version>
   <description>This node allow you to deplace a robot with a X-box controller</description>
 
-  <maintainer email="">TheWolfOfDawn</maintainer>
+  <maintainer email="ros@todo.todo">TheWolfOfDawn</maintainer>
   
   <license>MIT</license>
 
   <url type="website">https://github.com/TheWolfOfDawn/ros-joy-sfml/</url>
 
-  <author email="">TheWolfOfDawn</author>
+  <author email="ros@todo.todo">TheWolfOfDawn</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 </package>
