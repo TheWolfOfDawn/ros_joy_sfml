@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>driver_manette</name>
+  <name>ros-joy-sfml</name>
   <version>0.1.0</version>
   <description>This node allow you to deplace a robot with a X-box controller</description>
 
