@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>driver_manette</name>
+  <version>0.1.0</version>
+  <description>This node allow you to deplace a robot with a X-box controller</description>
+
+  <maintainer email="">TheWolfOfDawn</maintainer>
+  
+  <license>MIT</license>
+
+  <url type="website">https://github.com/TheWolfOfDawn/ros-joy-sfml/</url>
+
+  <author email="">TheWolfOfDawn</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
