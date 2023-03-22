@@ -3,7 +3,7 @@
 #include <geometry_msgs/Twist.h>
 
 int main(int argc, char **argv) {
-    ros::init(argc,argv,"driver_manette");
+    ros::init(argc,argv,"ros-joy-sfml");
     ros::NodeHandle nh;
 
     ros::Rate loop_rate(10);
