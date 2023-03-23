@@ -8,7 +8,7 @@ SFML
 ```sudo apt-get install libsfml-dev```
 
 ## How to start :
-```rosrun driver_manette driver_manette```
+```rosrun ros_joy_sfml ros_joy_sfml```
 
 ## Usage :
 <p align="center"><img src="./Xbox controller.png"></p>
